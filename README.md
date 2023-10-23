@@ -7,6 +7,11 @@ Shell: fish
 Prompt: starship  
 Multiplexer: tmux  
 
+## Screenshots
+Trying to document the progress...
+### 23 Oct 2023
+![screenshot](example-2023-10-23.png)
+
 ## Use this Setup
 Where to move files in order to use this configuration. Mostly a reminder for myself...
 ```
